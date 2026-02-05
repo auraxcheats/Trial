@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- Dynamic SEO -->
+    <title>Best CC Shop | ROCKY x SID | Buy Digital Assets</title>
+    <meta name="description" content="Premium Digital Store. Buy CC, Logs, and Accounts. Top rated SID CC Shop and ROCKY Shop. Instant delivery and 24/7 support.">
+    <meta name="keywords" content="cc shop, rocky cc, sid cc, cvv shop, buy cc, digital downloads, accounts market">
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="CARDING ">
+    
+    <!-- Open Graph / Social -->
+    <meta property="og:title" content="Best CC Shop | ROCKY x SID | Buy Digital Assets">
+    <meta property="og:description" content="Premium Digital Store. Buy CC, Logs, and Accounts. Top rated SID CC Shop and ROCKY Shop. Instant delivery and 24/7 support.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="http://freefire-cards.xyz">
+    
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <!-- Bootstrap Icons -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <!-- Main CSS -->
+    <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+    <div class="toast-container" id="toastContainer"></div>
+
+    <div class="container">
+        
+        <!-- Navbar -->
+        <nav class="navbar">
+            <a href="index.php" class="brand">
+                                    <i class="bi bi-credit-card-2-front-fill"></i>
+                    <span>CARDING </span>
+                            </a>
+            
+            <div class="nav-links">
+                <a href="index.php" class="active">Home</a>
+                <a href="shop.php" class="">Shop</a>
+                
+                                    <a href="login.php" class="">Login</a>
+                    <a href="register.php" class="btn-primary" style="padding: 8px 20px; color: black !important;">Register</a>
+                            </div>
+        </nav>
+
+        <!-- Main Content Wrapper ends in Footer -->
+
+<!-- SEO: Hidden Content for Crawlers (Keyword Stuffing Strategy) -->
+<h1 style="position:absolute; width:1px; height:1px; overflow:hidden; clip:rect(0,0,0,0);">
+    CARDING  - Best CC Shop, Buy CVV, Logs & Fullz
+</h1>
+<div style="display:none;">
+    Buy valid CC (Credit Cards) and Logs at CARDING . We provide high balance accounts, paypal logs, and crypto logs.
+    Top rated SID CC Shop alternative. Instant CVV delivery.
+</div>
+
+<!-- JSON-LD Schema for SEO -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Store",
+  "name": "CARDING ",
+  "image": "",
+  "description": "Premium Digital Store. Buy CC, Logs, and Accounts. Top rated SID CC Shop and ROCKY Shop. Instant delivery and 24/7 support.",
+  "url": "http://freefire-cards.xyz",
+  "telephone": "+1234567890",
+  "priceRange": "$$",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "http://freefire-cards.xyz/shop.php?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+
+<!-- Hero Section -->
+<div class="hero-section" style="padding: 100px 0; text-align: center; position: relative; overflow: hidden;">
+    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 600px; height: 600px; background: radial-gradient(circle, rgba(0,240,255,0.15) 0%, transparent 70%); z-index: -1;"></div>
+    
+    <div style="font-size: 4.5rem; font-weight: 800; line-height: 1.1; margin-bottom: 25px; letter-spacing: -2px;">
+        <span style="color: white; text-shadow: 0 0 20px rgba(255,255,255,0.3);">DIGITAL</span>
+        <span style="color: transparent; -webkit-text-stroke: 2px var(--primary); text-shadow: 0 0 30px rgba(0,240,255,0.5);">ASSETS</span>
+    </div>
+    
+    <p style="font-size: 1.25rem; color: var(--text-muted); max-width: 700px; margin: 0 auto 40px; line-height: 1.7;">
+        The most secure and premium marketplace for verified digital products. 
+        Instant delivery, guaranteed validity, and 24/7 support.
+    </p>
+    
+    <div style="display: flex; gap: 20px; justify-content: center; margin-bottom: 80px;">
+        <a href="shop.php" class="btn-primary" style="padding: 18px 40px; font-size: 1.1rem;">
+            <i class="bi bi-cart"></i> BROWSE SHOP
+        </a>
+                <a href="register.php" class="btn-secondary" style="padding: 18px 40px; font-size: 1.1rem;">
+            <i class="bi bi-person-plus"></i> JOIN NOW
+        </a>
+            </div>
+
+    <!-- Live Stats -->
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 30px; max-width: 1000px; margin: 0 auto;">
+        <div class="stat-card" style="text-align: center; padding: 30px;">
+            <i class="bi bi-people" style="font-size: 2rem; color: var(--primary);"></i>
+            <div class="stat-value">1,427</div>
+            <div style="color: var(--text-muted); font-size: 0.9rem; text-transform: uppercase; letter-spacing: 1px;">Happy Clients</div>
+        </div>
+        <div class="stat-card" style="text-align: center; padding: 30px; border-color: var(--primary);">
+            <i class="bi bi-box-seam" style="font-size: 2rem; color: #fff;"></i>
+            <div class="stat-value" style="text-shadow: 0 0 20px var(--primary);">18</div>
+            <div style="color: var(--primary); font-size: 0.9rem; text-transform: uppercase; letter-spacing: 1px; font-weight: bold;">Live Stock</div>
+        </div>
+        <div class="stat-card" style="text-align: center; padding: 30px;">
+            <i class="bi bi-bag-check" style="font-size: 2rem; color: var(--secondary);"></i>
+            <div class="stat-value">539</div>
+            <div style="color: var(--text-muted); font-size: 0.9rem; text-transform: uppercase; letter-spacing: 1px;">Successful Sales</div>
+        </div>
+    </div>
+</div>
+
+<!-- Featured Products with Microdata -->
+<div style="margin: 100px 0;">
+    <div style="display: flex; justify-content: space-between; align-items: flex-end; margin-bottom: 30px;">
+        <header>
+            <h2 style="font-size: 2.5rem; font-weight: 700; margin-bottom: 10px;">New Arrivals</h2>
+            <p style="color: var(--text-muted);">Fresh stock just added to the market.</p>
+        </header>
+        <a href="shop.php" style="color: var(--primary); text-decoration: none; font-weight: 600; display: flex; align-items: center; gap: 5px;">
+            View All <i class="bi bi-arrow-right"></i>
+        </a>
+    </div>
+
+    <div class="dashboard-grid">
+                <article class="shop-card" style="position: relative; overflow: hidden;" itemscope itemtype="https://schema.org/Product">
+            <meta itemprop="name" content="cc 284269">
+            <meta itemprop="description" content="MASTER CARD - USA">
+            
+            <div style="position: absolute; top: -20px; right: -20px; width: 100px; height: 100px; background: var(--primary); filter: blur(60px); opacity: 0.2;"></div>
+            
+            <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 20px;">
+                <div class="badge-outline" style="color: var(--primary); border-color: var(--primary);">
+                    284269                </div>
+                <div style="color: var(--text-muted); font-size: 0.9rem;">
+                    cc                </div>
+            </div>
+
+            <h3 style="font-size: 1.5rem; margin-bottom: 5px;">MASTER CARD</h3>
+            <p style="color: var(--text-muted); margin-bottom: 20px;">
+                USA • CREDIT             </p>
+
+            <div style="display: flex; justify-content: space-between; align-items: center; padding-top: 20px; border-top: 1px solid var(--border-color);">
+                <div style="font-size: 1.5rem; font-weight: 700; color: #fff;" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+                    <meta itemprop="priceCurrency" content="USD">
+                    <span itemprop="price">3,000.00</span>
+                    $3,000.00                    <link itemprop="availability" href="https://schema.org/InStock" />
+                </div>
+                 <form method="POST" action="shop.php" style="margin: 0;">
+                    <input type="hidden" name="buy_product_id" value="28">
+                    <button class="btn-primary" style="padding: 10px 20px; font-size: 0.9rem;">
+                        BUY NOW
+                    </button>
+                </form>
+            </div>
+        </article>
+                <article class="shop-card" style="position: relative; overflow: hidden;" itemscope itemtype="https://schema.org/Product">
+            <meta itemprop="name" content="cc 447375">
+            <meta itemprop="description" content="Visa - USA">
+            
+            <div style="position: absolute; top: -20px; right: -20px; width: 100px; height: 100px; background: var(--primary); filter: blur(60px); opacity: 0.2;"></div>
+            
+            <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 20px;">
+                <div class="badge-outline" style="color: var(--primary); border-color: var(--primary);">
+                    447375                </div>
+                <div style="color: var(--text-muted); font-size: 0.9rem;">
+                    cc                </div>
+            </div>
+
+            <h3 style="font-size: 1.5rem; margin-bottom: 5px;">Visa</h3>
+            <p style="color: var(--text-muted); margin-bottom: 20px;">
+                USA • Credit            </p>
+
+            <div style="display: flex; justify-content: space-between; align-items: center; padding-top: 20px; border-top: 1px solid var(--border-color);">
+                <div style="font-size: 1.5rem; font-weight: 700; color: #fff;" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+                    <meta itemprop="priceCurrency" content="USD">
+                    <span itemprop="price">5,635.00</span>
+                    $5,635.00                    <link itemprop="availability" href="https://schema.org/InStock" />
+                </div>
+                 <form method="POST" action="shop.php" style="margin: 0;">
+                    <input type="hidden" name="buy_product_id" value="18">
+                    <button class="btn-primary" style="padding: 10px 20px; font-size: 0.9rem;">
+                        BUY NOW
+                    </button>
+                </form>
+            </div>
+        </article>
+                <article class="shop-card" style="position: relative; overflow: hidden;" itemscope itemtype="https://schema.org/Product">
+            <meta itemprop="name" content="cc 424473">
+            <meta itemprop="description" content="Visa - USA">
+            
+            <div style="position: absolute; top: -20px; right: -20px; width: 100px; height: 100px; background: var(--primary); filter: blur(60px); opacity: 0.2;"></div>
+            
+            <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 20px;">
+                <div class="badge-outline" style="color: var(--primary); border-color: var(--primary);">
+                    424473                </div>
+                <div style="color: var(--text-muted); font-size: 0.9rem;">
+                    cc                </div>
+            </div>
+
+            <h3 style="font-size: 1.5rem; margin-bottom: 5px;">Visa</h3>
+            <p style="color: var(--text-muted); margin-bottom: 20px;">
+                USA • Credit            </p>
+
+            <div style="display: flex; justify-content: space-between; align-items: center; padding-top: 20px; border-top: 1px solid var(--border-color);">
+                <div style="font-size: 1.5rem; font-weight: 700; color: #fff;" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+                    <meta itemprop="priceCurrency" content="USD">
+                    <span itemprop="price">5,635.00</span>
+                    $5,635.00                    <link itemprop="availability" href="https://schema.org/InStock" />
+                </div>
+                 <form method="POST" action="shop.php" style="margin: 0;">
+                    <input type="hidden" name="buy_product_id" value="19">
+                    <button class="btn-primary" style="padding: 10px 20px; font-size: 0.9rem;">
+                        BUY NOW
+                    </button>
+                </form>
+            </div>
+        </article>
+                <article class="shop-card" style="position: relative; overflow: hidden;" itemscope itemtype="https://schema.org/Product">
+            <meta itemprop="name" content="cc 469221">
+            <meta itemprop="description" content="Visa - USA">
+            
+            <div style="position: absolute; top: -20px; right: -20px; width: 100px; height: 100px; background: var(--primary); filter: blur(60px); opacity: 0.2;"></div>
+            
+            <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 20px;">
+                <div class="badge-outline" style="color: var(--primary); border-color: var(--primary);">
+                    469221                </div>
+                <div style="color: var(--text-muted); font-size: 0.9rem;">
+                    cc                </div>
+            </div>
+
+            <h3 style="font-size: 1.5rem; margin-bottom: 5px;">Visa</h3>
+            <p style="color: var(--text-muted); margin-bottom: 20px;">
+                USA • Credit            </p>
+
+            <div style="display: flex; justify-content: space-between; align-items: center; padding-top: 20px; border-top: 1px solid var(--border-color);">
+                <div style="font-size: 1.5rem; font-weight: 700; color: #fff;" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+                    <meta itemprop="priceCurrency" content="USD">
+                    <span itemprop="price">5,635.00</span>
+                    $5,635.00                    <link itemprop="availability" href="https://schema.org/InStock" />
+                </div>
+                 <form method="POST" action="shop.php" style="margin: 0;">
+                    <input type="hidden" name="buy_product_id" value="20">
+                    <button class="btn-primary" style="padding: 10px 20px; font-size: 0.9rem;">
+                        BUY NOW
+                    </button>
+                </form>
+            </div>
+        </article>
+                <article class="shop-card" style="position: relative; overflow: hidden;" itemscope itemtype="https://schema.org/Product">
+            <meta itemprop="name" content="cc 473744">
+            <meta itemprop="description" content="Visa - USA">
+            
+            <div style="position: absolute; top: -20px; right: -20px; width: 100px; height: 100px; background: var(--primary); filter: blur(60px); opacity: 0.2;"></div>
+            
+            <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 20px;">
+                <div class="badge-outline" style="color: var(--primary); border-color: var(--primary);">
+                    473744                </div>
+                <div style="color: var(--text-muted); font-size: 0.9rem;">
+                    cc                </div>
+            </div>
+
+            <h3 style="font-size: 1.5rem; margin-bottom: 5px;">Visa</h3>
+            <p style="color: var(--text-muted); margin-bottom: 20px;">
+                USA • Credit            </p>
+
+            <div style="display: flex; justify-content: space-between; align-items: center; padding-top: 20px; border-top: 1px solid var(--border-color);">
+                <div style="font-size: 1.5rem; font-weight: 700; color: #fff;" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+                    <meta itemprop="priceCurrency" content="USD">
+                    <span itemprop="price">5,635.00</span>
+                    $5,635.00                    <link itemprop="availability" href="https://schema.org/InStock" />
+                </div>
+                 <form method="POST" action="shop.php" style="margin: 0;">
+                    <input type="hidden" name="buy_product_id" value="21">
+                    <button class="btn-primary" style="padding: 10px 20px; font-size: 0.9rem;">
+                        BUY NOW
+                    </button>
+                </form>
+            </div>
+        </article>
+                <article class="shop-card" style="position: relative; overflow: hidden;" itemscope itemtype="https://schema.org/Product">
+            <meta itemprop="name" content="cc 432880">
+            <meta itemprop="description" content="Visa - USA">
+            
+            <div style="position: absolute; top: -20px; right: -20px; width: 100px; height: 100px; background: var(--primary); filter: blur(60px); opacity: 0.2;"></div>
+            
+            <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 20px;">
+                <div class="badge-outline" style="color: var(--primary); border-color: var(--primary);">
+                    432880                </div>
+                <div style="color: var(--text-muted); font-size: 0.9rem;">
+                    cc                </div>
+            </div>
+
+            <h3 style="font-size: 1.5rem; margin-bottom: 5px;">Visa</h3>
+            <p style="color: var(--text-muted); margin-bottom: 20px;">
+                USA • Credit            </p>
+
+            <div style="display: flex; justify-content: space-between; align-items: center; padding-top: 20px; border-top: 1px solid var(--border-color);">
+                <div style="font-size: 1.5rem; font-weight: 700; color: #fff;" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+                    <meta itemprop="priceCurrency" content="USD">
+                    <span itemprop="price">5,635.00</span>
+                    $5,635.00                    <link itemprop="availability" href="https://schema.org/InStock" />
+                </div>
+                 <form method="POST" action="shop.php" style="margin: 0;">
+                    <input type="hidden" name="buy_product_id" value="22">
+                    <button class="btn-primary" style="padding: 10px 20px; font-size: 0.9rem;">
+                        BUY NOW
+                    </button>
+                </form>
+            </div>
+        </article>
+            </div>
+</div>
+
+<!-- Features / Trust -->
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 40px; margin: 100px 0; text-align: center;">
+    <div>
+        <div style="width: 80px; height: 80px; background: rgba(0,240,255,0.1); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 20px; color: var(--primary); font-size: 2rem;">
+            <i class="bi bi-lightning-charge"></i>
+        </div>
+        <h3 style="margin-bottom: 10px;">Instant Delivery</h3>
+        <p style="color: var(--text-muted);">Get your goods immediately after payment confirmation.</p>
+    </div>
+    <div>
+        <div style="width: 80px; height: 80px; background: rgba(112,0,255,0.1); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 20px; color: var(--secondary); font-size: 2rem;">
+            <i class="bi bi-shield-check"></i>
+        </div>
+        <h3 style="margin-bottom: 10px;">Secure & Private</h3>
+        <p style="color: var(--text-muted);">We do not store logs. Your privacy is our priority.</p>
+    </div>
+    <div>
+        <a href="https://wa.me/91
